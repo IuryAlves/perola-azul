@@ -1,7 +1,7 @@
 # backend
 API do backend do Pérola Azul
 
-
+[![Build Status](https://travis-ci.org/IuryAlves/perola-azul.svg?branch=master)](https://travis-ci.org/IuryAlves/perola-azul)
 
 # Table of contents
 1. [Installing](#installing)
